@@ -3,5 +3,8 @@
     <string name="my_name">Yaroslav</string>
     <string name="my_age">19 years</string>
     <string name="hello_world">Hello, world!</string>
-    <string name="button">button</string>
+    <string name="button">Переход на другое аctivity</string>
+    <string name="pr1">programmnaya</string>
+    <string name="pr2">programmnaya knopka</string>
+    <string name="but1">Возврат на старое аctivity</string>
 </resources>
