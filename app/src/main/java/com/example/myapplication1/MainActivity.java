@@ -14,7 +14,7 @@ import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
     protected static final String TAG = "MyApplication1";
-    public static final String KEY = "key";
+    public static final String KEY = "key1";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
